@@ -1,3 +1,10 @@
+/**
+ * Class: GradeExam
+ * author: Luke Martin
+ * version: 2.0
+ * description
+ * grade of this program:
+ */
 public class GradeExam {
     public static void main(String[] args) {
         char[][] studentAnswers = {
@@ -33,3 +40,7 @@ public class GradeExam {
             }
             System.out.println("Student " + (i + 1) + "'s count is " + count);
         }
+
+
+    }
+}
