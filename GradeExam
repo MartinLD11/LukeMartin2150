@@ -14,12 +14,12 @@ public class GradeExam {
         //for each loop
         for(char[] studentData: studentAnswers)
         {
-            int correctCount = 0;
+            int c = 0;
 
             for(char answer : studentData )
             {
                 //(3)
-                if(answer == keys[3]);
+                if(answer == keys[c]);
 
             }
         }
