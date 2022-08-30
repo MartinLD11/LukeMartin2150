@@ -3,7 +3,7 @@
  * class: JeggedArrays
  * version: 2.0
  * description: write a method that takes a double array and 
- * returns the length of its row in an array from like [3, 2, 1]
+ * returns the length of its row in an array form like [3, 2, 1]
  * grade: 
  */
 
