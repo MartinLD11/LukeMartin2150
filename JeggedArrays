@@ -1,0 +1,29 @@
+/**
+ * author: Luke Martin
+ * class: JeggedArrays
+ * version: 2.0
+ * description: write a method that takes a double array and 
+ * returns the length of its row in an array from like [3, 2, 1]
+ * grade: 
+ */
+
+import java.util.Arrays;
+
+public class JeggedArrays {
+    public static void main(String[] args) {
+        int[][] y = {
+                {1, 2, 3},
+                {4, 5},
+                {6}
+        };
+        System.out.println(Arrays.toString(row(y)));
+    }
+    public static int[] row(int[][] a){
+        int [] answer = new int[a.length];
+        for (int i = 0; i < a.length; i++){
+            answer[i] = a[i].length;
+        }
+        return answer;
+    }
+}
+
