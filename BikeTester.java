@@ -1,7 +1,7 @@
 /**
 Name: Luke Martin
 Class: Itec 2150
-Description: Bike Class
+Description: Bike Class  //incorrect class name. this is BikeTester class. You need to describe the project and class in your own word. 
 Create a business class called Bike
 Bikes should at least have number of wheels, manufacturer and year data. Additional data can be created at the programmer’s discretion.
 A no-arg constructor with values of 2 for number of wheels to 2, “Schwinn” for manufacturer, and 2014 for year should eb created.
