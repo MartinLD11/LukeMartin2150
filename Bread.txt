@@ -1,0 +1,26 @@
+Directions are as follows.
+▪Create Bread superclass that has default constructor with general ingredients and recipe.
+It also has a constructor with all the parameters. Bread also comes with getter, setter, and toString methods.
+Besides those methods, the Bread superclass has the bake method to change the state of bread from "not baked" to "baked",
+unless it is already "baked."
+And also has getIngredients method.
+This method returns a String of all the ingredients of the instance. And you can add other methods as you want.
+There are five subclasses of Bread class. Each of them will have unique properties with unique ingredients.
+
+–Instance variables: flour, water, salt, sugar, baking powder, yeast, breadName, state, recipe.
+–Default constructor
+–Constructor with all parameters.
+–Getters, setters, toString method.
+–bake, getIngredients, and other methods you want to include.
+▪Create SourdoughBread subclass
+–Instance variables: you will need to create unique instance variables for sourdough bread.
+–Constructors, getters, setters, recipe method  to describe how to, and toString or you can add other methods you want to include.
+
+▪Create Pastry subclass
+–Instance variables: you will need to create unique instance variables for pastry.
+–Constructors, getters, setters, recipe method  to describe how to, and toString or you can add other methods you want to include
+▪Create three more different type of bread subclasses (e.g. SourdoughBread- see follow sample)
+–Constructors, getters, setters, recipe method  to describe how to, and toString or you can add other methods you want to include
+▪Main class.  This class has an instance of Bread and its subclasses. This program will display recipes of all classes and methods.
+
+Each class has their own set of recipes and an override toString connects the original ingredients to each set of bread mixture
