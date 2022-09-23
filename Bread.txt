@@ -1,3 +1,5 @@
+Name: Luke Martin
+Class: Itec 2150
 Directions are as follows.
 ▪Create Bread superclass that has default constructor with general ingredients and recipe.
 It also has a constructor with all the parameters. Bread also comes with getter, setter, and toString methods.
@@ -23,4 +25,5 @@ There are five subclasses of Bread class. Each of them will have unique properti
 –Constructors, getters, setters, recipe method  to describe how to, and toString or you can add other methods you want to include
 ▪Main class.  This class has an instance of Bread and its subclasses. This program will display recipes of all classes and methods.
 
+Grade: 
 Each class has their own set of recipes and an override toString connects the original ingredients to each set of bread mixture
